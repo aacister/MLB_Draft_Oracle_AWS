@@ -1,6 +1,6 @@
 > An AI-powered MLB fantasy draft simulator where autonomous agents compete to build the best team
 
-**[Live Demo - mlbdraftoracle.com]([http://mlbdraftoracle.com](http://mlbdraftoracle.com.s3-website.us-east-2.amazonaws.com/](http://mlbdraftoracle.com.s3-website.us-east-2.amazonaws.com/))** | Available daily 2-4 PM EST
+**[Live Demo - mlbdraftoracle.com](http://mlbdraftoracle.com.s3-website.us-east-2.amazonaws.com/) | Available daily 2-4 PM EST
 
 [![AWS](https://img.shields.io/badge/AWS-Lambda-orange)](https://aws.amazon.com/lambda/)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
